@@ -11,9 +11,4 @@ Make a pull request
 
 - [ ] Add your age to the web page<br>
 - [ ] Add your image to the web page<br>
-- [ ] Change the heading color to purple<br>
-- [ ] Make your name blue color<br>
-- [ ] Center the image<br>
-- [ ] Make the country of residence italic font<br>
-- [ ] Change the color of your Country name with the colors of the flag (Eg. Italy I-green t-white a-red l-green y-white)<br>
-- [ ] Change the background color to a preferred one<br>
+- [ ] Make the country of residence<br>
